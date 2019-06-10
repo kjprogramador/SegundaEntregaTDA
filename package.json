@@ -1,0 +1,23 @@
+{
+  "name": "servidor",
+  "version": "1.0.1",
+  "description": "Pimera aplicacion",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Felipe Barco",
+  "license": "ISC",
+  "dependencies": {
+    "alert-node": "^1.2.3",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "compat": "^1.0.4",
+    "express": "^4.17.1",
+    "hbs": "^4.0.3",
+    "jquery": "^3.3.1",
+    "path": "^0.12.7",
+    "popper.js": "^1.14.7"
+  }
+}
